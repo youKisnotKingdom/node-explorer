@@ -128,3 +128,9 @@ dist
 .yarn/build-state.yml
 .yarn/install-state.gz
 .pnp.*
+
+# fast api
+__pycache__
+
+# mac
+.DS_Store
